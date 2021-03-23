@@ -12,7 +12,5 @@ $params = [
 
     'body'      => [ 'testField' => 'abc']
 ];
-
-
 $response = $client->index($params);
 ?>
